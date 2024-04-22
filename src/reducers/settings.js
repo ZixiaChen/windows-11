@@ -17,7 +17,7 @@ const defState = {
     },
   },
   person: {
-    name: "Blue Edge",
+    name: "Zixia Chen",
     theme: "light",
     color: "blue",
   },
